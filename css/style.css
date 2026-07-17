@@ -83,3 +83,21 @@ footer{
     padding:40px;
     color:#777;
 }
+
+.lot-card img{
+    width:100%;
+    display:block;
+    border-radius:10px;
+    margin-bottom:18px;
+}
+
+.status{
+    display:inline-block;
+    background:#e6f3e7;
+    color:#2f5d3a;
+    padding:6px 14px;
+    border-radius:999px;
+    font-size:.9rem;
+    font-weight:bold;
+    margin:10px 0 18px;
+}
