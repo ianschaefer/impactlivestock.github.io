@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600">
+  <rect width="100%" height="100%" fill="#d9ddd6"/>
+  <text x="50%" y="50%" text-anchor="middle"
+        font-size="36"
+        fill="#4a4a4a"
+        font-family="Arial">
+    Impact Livestock
+  </text>
+</svg>
